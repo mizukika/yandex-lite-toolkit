@@ -23,7 +23,10 @@
 * Станция Стрит (mango, 2025 г.)
 * Сторонние колонки с Алисой: JBL Link Portable / Music, Elari SmartBeat, Prestigio Smartmate, LG XBOOM.
 
----
+
+<img width="1115" height="628" alt="изображение" src="https://github.com/user-attachments/assets/2704cdae-5ff7-40fb-8cb9-b893728c1bff" />
+
+
 
 ## Быстрый запуск
 
